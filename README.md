@@ -104,7 +104,7 @@ The aim was to understand **customer behavior, film inventory, staff efficiency,
 
 ### Executive Overview
 
-![Executive Overview](https://raw.githubusercontent.com/2001jainsurabhi/Movie_Rental_Analytics_Dashboard/main/images/overview_dashboard.png)
+![Executive Overview](Overview Dashboard.PNG)
 
 
 ### Customers & Segments
