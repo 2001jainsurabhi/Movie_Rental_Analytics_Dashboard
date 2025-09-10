@@ -135,4 +135,4 @@ The aim was to understand **customer behavior, film inventory, staff efficiency,
 
 **Surbhi Jain**  
 📧 Email: 2001jainsurabhi@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/jainsurbhi123/) | [GitHub](https://github.com/your-username)  
+🌐 [LinkedIn](https://www.linkedin.com/in/jainsurbhi123/) | [GitHub](https://github.com/2001jainsurabhi)  
