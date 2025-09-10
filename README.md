@@ -104,15 +104,15 @@ The aim was to understand **customer behavior, film inventory, staff efficiency,
 
 ### Executive Overview
 
-![Executive Overview GIF](https://drive.google.com/file/d/1jDv0KUcxScteBNWl7ns3Cm0jCOjG1gUB/view?usp=sharing)
+[![Executive Overview GIF](path/to/thumbnail.jpg)](https://drive.google.com/file/d/1jDv0KUcxScteBNWl7ns3Cm0jCOjG1gUB/view?usp=sharing)
 
 ### Customers & Segments
 
-![Customers Screenshot](https://drive.google.com/file/d/1PLnNVqC6iEJlEqSNHcTEwrEkuh3M974e/view?usp=sharing)
+[![Customers Segments Screenshot](path/to/thumbnail.jpg)](https://drive.google.com/file/d/1PLnNVqC6iEJlEqSNHcTEwrEkuh3M974e/view?usp=sharing)
 
 ### Films & Inventory
 
-![Films Inventory Screenshot](https://drive.google.com/file/d/1gWT4ze-KRe8FtVIIue7UESpZeZgcRzwO/view?usp=sharing)
+[![Films Inventory Screenshot](path/to/thumbnail.jpg)](https://drive.google.com/file/d/1gWT4ze-KRe8FtVIIue7UESpZeZgcRzwO/view?usp=sharing)
 
 ### Staff & Store Performance
 
