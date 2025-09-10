@@ -114,7 +114,7 @@ The aim was to understand **customer behavior, film inventory, staff efficiency,
 [![Watch the video](path/to/thumbnail.jpg)](https://drive.google.com/file/d/14IF8-Dulx18WqQmy4G7sORJSE-xPF05k/view?usp=sharing)
 
 ---
-
+(https://drive.google.com/file/d/1jDv0KUcxScteBNWl7ns3Cm0jCOjG1gUB/view?usp=sharing)
 ## Author  
 
 **Surbhi Jain**  
