@@ -104,7 +104,7 @@ The aim was to understand **customer behavior, film inventory, staff efficiency,
 
 ### Executive Overview
 
-![Executive Overview GIF](C:\Users\Administrator\OneDrive\Desktop\dashboard\PowerBi Dashboard\movie_rental_analytics\images)
+![Executive Overview GIF](Overview Dashboard.PNG)
 
 ### Customers & Segments
 
