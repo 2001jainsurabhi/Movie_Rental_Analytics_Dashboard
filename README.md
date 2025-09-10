@@ -110,6 +110,10 @@ The aim was to understand **customer behavior, film inventory, staff efficiency,
  Data was converted into a **clear business story** that decision-makers can act on.
 
 ---
+## Project Demo
+[![Watch the video](path/to/thumbnail.jpg)](https://drive.google.com/file/d/14IF8-Dulx18WqQmy4G7sORJSE-xPF05k/view?usp=sharing)
+
+---
 
 ## Author  
 
