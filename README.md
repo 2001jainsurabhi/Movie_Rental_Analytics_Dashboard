@@ -100,6 +100,26 @@ The aim was to understand **customer behavior, film inventory, staff efficiency,
 
 ---
 
+## 📸 Dashboard Screenshots
+
+### Executive Overview
+
+![Executive Overview GIF](https://drive.google.com/file/d/1jDv0KUcxScteBNWl7ns3Cm0jCOjG1gUB/view?usp=sharing)
+
+### Customers & Segments
+
+![Customers Screenshot](https://drive.google.com/file/d/1PLnNVqC6iEJlEqSNHcTEwrEkuh3M974e/view?usp=sharing)
+
+### Films & Inventory
+
+![Films Inventory Screenshot](https://drive.google.com/file/d/1gWT4ze-KRe8FtVIIue7UESpZeZgcRzwO/view?usp=sharing)
+
+### Staff & Store Performance
+
+![Staff & Store Screenshot](https://drive.google.com/file/d/13Mf1msiao6QhZilBQpIUnRdVRx9v4YFO/view?usp=sharing)
+
+---
+
 ## Conclusion & Learnings
 
 * Applied **MECE framework** for structured analysis  
@@ -114,7 +134,7 @@ The aim was to understand **customer behavior, film inventory, staff efficiency,
 [![Watch the video](path/to/thumbnail.jpg)](https://drive.google.com/file/d/14IF8-Dulx18WqQmy4G7sORJSE-xPF05k/view?usp=sharing)
 
 ---
-(https://drive.google.com/file/d/1jDv0KUcxScteBNWl7ns3Cm0jCOjG1gUB/view?usp=sharing)
+
 ## Author  
 
 **Surbhi Jain**  
