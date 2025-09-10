@@ -116,7 +116,7 @@ The aim was to understand **customer behavior, film inventory, staff efficiency,
 
 ### Staff & Store Performance
 
-![Staff & Store Screenshot](https://drive.google.com/file/d/13Mf1msiao6QhZilBQpIUnRdVRx9v4YFO/view?usp=sharing)
+[![Staff & Store Screenshot](path/to/thumbnail.jpg)](https://drive.google.com/file/d/13Mf1msiao6QhZilBQpIUnRdVRx9v4YFO/view?usp=sharing)
 
 ---
 
