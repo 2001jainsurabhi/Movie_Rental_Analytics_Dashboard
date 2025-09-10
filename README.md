@@ -100,27 +100,6 @@ The aim was to understand **customer behavior, film inventory, staff efficiency,
 
 ---
 
-## Dashboard Screenshots
-
-### Executive Overview
-
-![Executive Overview](Overview Dashboard.PNG)
-
-
-### Customers & Segments
-
-![Customers Screenshot](images/customers_segments.png)
-
-### Films & Inventory
-
-![Films Inventory Screenshot](images/films_inventory.png)
-
-### Staff & Store Performance
-
-![Staff & Store Screenshot](images/staff_store.png)
-
----
-
 ## Conclusion & Learnings
 
 * Applied **MECE framework** for structured analysis  
